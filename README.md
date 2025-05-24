@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="https://github.com/RimauriProd/RimauriProd/blob/main/Rimauri%20officialPhoto%20856%20KB.png" width="220" alt="Rimauri Doctor Jungle" />
+</p>
 <!--
 **RimauriProd/RimauriProd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
